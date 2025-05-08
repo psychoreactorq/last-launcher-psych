@@ -36,8 +36,8 @@ public class Constants {
     public static final int RESTORE_REQUEST = 125;
     public static final int FONTS_REQUEST = 126;
     public static final int BACKUP_REQUEST = 128;
-    public static final int DEFAULT_MAX_TEXT_SIZE = 10;
-    public static final int DEFAULT_MIN_TEXT_SIZE = -10;
+    public static final int DEFAULT_MAX_TEXT_SIZE = 25;
+    public static final int DEFAULT_MIN_TEXT_SIZE = -25;
     public static final int MAX_PADDING_LEFT = 99;
     public static final int MAX_PADDING_RIGHT = 99;
     public static final int MAX_PADDING_TOP = 999;
